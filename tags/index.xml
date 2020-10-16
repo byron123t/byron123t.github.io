@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Brian Tang&#39;s Zettelkasten</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Brian Tang&#39;s Zettelkasten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cheatsheets</title>
+      <link>/tags/cheatsheets/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cheatsheets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>agi</title>
+      <link>/tags/agi/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/agi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>hai20</title>
+      <link>/tags/hai20/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hai20/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>metalearning</title>
+      <link>/tags/metalearning/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/metalearning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>/tags/neuroscience/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neuroscience/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>/tags/productivity/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/productivity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>psychology</title>
+      <link>/tags/psychology/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/psychology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>/tags/robotics/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/robotics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>/tags/writing/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/writing/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
