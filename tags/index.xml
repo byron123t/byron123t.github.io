@@ -23,6 +23,46 @@
     </item>
     
     <item>
+      <title>fun</title>
+      <link>/tags/fun/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fun/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>/tags/podcast/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/podcast/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>vtuber</title>
+      <link>/tags/vtuber/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vtuber/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>/tags/writing/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/writing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>agi</title>
       <link>/tags/agi/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
@@ -88,16 +128,6 @@
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/robotics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>writing</title>
-      <link>/tags/writing/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/writing/</guid>
       <description></description>
       
     </item>

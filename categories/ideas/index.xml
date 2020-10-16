@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>writing on Brian Tang&#39;s Zettelkasten</title>
-    <link>/tags/writing/</link>
-    <description>Recent content in writing on Brian Tang&#39;s Zettelkasten</description>
+    <title>ideas on Brian Tang&#39;s Zettelkasten</title>
+    <link>/categories/ideas/</link>
+    <description>Recent content in ideas on Brian Tang&#39;s Zettelkasten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
     <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,12 +23,12 @@
     </item>
     
     <item>
-      <title>Zettelkasten Rules</title>
-      <link>/posts/20201015-zettelkasten/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Gamingwithscholars streaming</title>
+      <link>/posts/20201016-vtuber/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/20201015-zettelkasten/</guid>
-      <description></description>
+      <guid>/posts/20201016-vtuber/</guid>
+      <description>&lt;p&gt;I should take gaming with scholars further&lt;/p&gt;</description>
       
     </item>
     
