@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>cheatsheets</title>
-      <link>/tags/cheatsheets/</link>
+      <title>automation</title>
+      <link>/tags/automation/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cheatsheets/</guid>
+      <guid>/tags/automation/</guid>
       <description></description>
       
     </item>
@@ -33,11 +33,71 @@
     </item>
     
     <item>
+      <title>hacking</title>
+      <link>/tags/hacking/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hacking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>/tags/mobile/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mobile/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>podcast</title>
       <link>/tags/podcast/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/podcast/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>/tags/productivity/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/productivity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>/tags/robotics/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/robotics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>/tags/security/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/security/</guid>
       <description></description>
       
     </item>
@@ -73,11 +133,31 @@
     </item>
     
     <item>
+      <title>cheatsheets</title>
+      <link>/tags/cheatsheets/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cheatsheets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>hai20</title>
       <link>/tags/hai20/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/hai20/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>machinelearning</title>
+      <link>/tags/machinelearning/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machinelearning/</guid>
       <description></description>
       
     </item>
@@ -103,31 +183,11 @@
     </item>
     
     <item>
-      <title>productivity</title>
-      <link>/tags/productivity/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/productivity/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>psychology</title>
       <link>/tags/psychology/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/psychology/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>robotics</title>
-      <link>/tags/robotics/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/robotics/</guid>
       <description></description>
       
     </item>

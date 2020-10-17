@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Automating iphone stuff</title>
+      <link>/posts/20201016-iphone-automation/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201016-iphone-automation/</guid>
+      <description>&lt;h2 id=&#34;ideas-include&#34;&gt;Ideas include:&lt;/h2&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Bernando storybook</title>
       <link>/posts/20201016-bernando/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
@@ -28,16 +38,36 @@
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201016-vtuber/</guid>
-      <description>&lt;p&gt;I should take gaming with scholars further&lt;/p&gt;</description>
+      <description>&lt;p&gt;I should take gaming with scholars further&amp;hellip;&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Template</title>
+      <title>HRI Privacy</title>
+      <link>/posts/20201017-hri-privacy/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201017-hri-privacy/</guid>
+      <description>&lt;p&gt;Conversational privacy still seems like there is a lot of unsolved problems.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TITLE</title>
       <link>/posts/template/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/template/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unethical hacking</title>
+      <link>/posts/20201016-hacking/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201016-hacking/</guid>
       <description></description>
       
     </item>
@@ -50,7 +80,7 @@
       <guid>/posts/20201015-hri-learning/</guid>
       <description>&lt;h2 id=&#34;robot-learning-process&#34;&gt;Robot learning process&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Self model directs agent towards interesting actions that the world doesn&amp;rsquo;t understand yet&lt;/li&gt;
+&lt;li&gt;Self model directs agent towards interesting actions that the world does not understand yet&lt;/li&gt;
 &lt;/ul&gt;</description>
       
     </item>

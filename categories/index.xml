@@ -23,11 +23,21 @@
     </item>
     
     <item>
-      <title>machinelearning</title>
-      <link>/categories/machinelearning/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <title>notes</title>
+      <link>/categories/notes/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/machinelearning/</guid>
+      <guid>/categories/notes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>/categories/research/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/research/</guid>
       <description></description>
       
     </item>
