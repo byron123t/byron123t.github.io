@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.76.4" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>HRI Privacy&nbsp;&ndash;&nbsp;Brian Tang&#39;s Zettelkasten</title><link rel="stylesheet" href="/css/core.min.fdd0c10c69278cc03d9be012aebfa3d67fab991836ab33c143c5c8c08ae542333a23b967a5169ad4fb896277685f2e13.css" integrity="sha384-/dDBDGknjMA9m&#43;ASrr&#43;j1n&#43;rmRg2qzPBQ8XIwIrlQjM6I7lnpRaa1PuJYndoXy4T"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="HRI Privacy" /><body><section id="header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">Brian Tang's Zettelkasten</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/categories/">Categories</a><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a></nav></div></span></div></section><section id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">HRI Privacy</h1><p class="article date">Wednesday, October 21, 2020</p></section><article class="article markdown-body"><h2 id="problem-statement">Problem statement</h2>
+<ul>
+<li>We want to balance usability and privacy for multi-user setting with a robot (conversational privacy).</li>
+<li>Using Misty 2, which has a camera, 3 microphones, eye display, 2 speakers, 6 touch panels, neck/arm/body movement, wifi, bluetooth, bump sensors, Qualcomm snapdragon, windows, android</li>
+</ul>
+<h2 id="contextual-tuples">Contextual tuples</h2>
+<ul>
+<li>How do we connect and map these contexts? (e.g. deciding when to speak)</li>
+<li>How do we map speakers to entities in the content? (e.g. Bob says: Alice should do this)</li>
+<li>How do we determine how close users/speakers are to one another?</li>
+<li>How do we do intent recognition? (question, answer, response, or exposition)</li>
+<li>How do we determine where a conversation begins and ends?</li>
+</ul>
+<h3 id="solutions">Solutions</h3>
+<ul>
+<li>Recency bias</li>
+<li>Context tuple matching system</li>
+<li>Generative knowledge graph</li>
+</ul>
+<h2 id="personalized-permissions-controller">Personalized permissions controller</h2>
+<ul>
+<li>Permissions controller which is enforced by privacy scores based on context tuples Context = (entities, sentiments, paralinguistic features, category)</li>
+<li>Controller is personalized via adjusting thresholds/scores based on privacy indication phrases (“Feel free to tell X”, “Don’t tell anybody”)</li>
+<li>Can we start with a generalized controller and fine-tune this to each user?</li>
+<li>Should paralinguistic features also influence personalization?</li>
+</ul>
+<h2 id="audio">Audio</h2>
+<ul>
+<li>How to map speakers and timestamps to text?</li>
+<li>How to maintain paralinguistic features as well as content based features? How to add these to our context tuple?</li>
+</ul>
+<h2 id="information-graph">Information Graph</h2>
+<ul>
+<li>How do we store conversations in a way that is easy to query and space conscious?</li>
+<li>How do we map and link information that is related to each other?</li>
+</ul>
+<h2 id="datasets">Datasets</h2>
+<ul>
+<li>We need a privacy indication phrase dataset.</li>
+<li>We need a privacy score initialization dataset.</li>
+<li>Should we also make an inference dataset about conversations based on prior information or conversations?</li>
+</ul>
+<h2 id="user-studies">User studies</h2>
+<ul>
+<li>What task should the robot do in the user study?</li>
+</ul>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="http://byron123t.github.io/posts/20201017-hri-privacy/">Previous ideation</a></li>
+</ul></article><section class="article labels"><a class="category" href=/categories/research/>research</a><a class="tag" href=/tags/robotics/>robotics</a><a class="tag" href=/tags/privacy/>privacy</a></section>
+</div>
+<div class="article bottom"><section class="article navigation"><p><a class="link" href="/posts/20201018-hai20-ai/"><span class="iconfont icon-article"></span>HAI 2020 AI</a></p></section></div></section><section id="footer"><div class="footer-wrap">
+    <p class="copyright">©2019 Notepadium.</p>
+    <p class="powerby"><span>Powered&nbsp;by&nbsp;</span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span>&nbsp;&amp;&nbsp;</span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p></div></section></body>
+
+</html>

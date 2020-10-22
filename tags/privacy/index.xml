@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HRI Privacy</title>
+      <link>/posts/20201018-hri-privacy/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201018-hri-privacy/</guid>
+      <description>&lt;h2 id=&#34;problem-statement&#34;&gt;Problem statement&lt;/h2&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>HRI Privacy</title>
       <link>/posts/20201017-hri-privacy/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201017-hri-privacy/</guid>
       <description>&lt;p&gt;Conversational privacy still seems like there is a lot of unsolved problems.&lt;/p&gt;</description>

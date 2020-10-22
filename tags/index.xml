@@ -7,10 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>/tags/robotics/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/robotics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>agi</title>
+      <link>/tags/agi/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/agi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>hai20</title>
+      <link>/tags/hai20/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hai20/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>machinelearning</title>
+      <link>/tags/machinelearning/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machinelearning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>metalearning</title>
+      <link>/tags/metalearning/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/metalearning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>naturallanguage</title>
+      <link>/tags/naturallanguage/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/naturallanguage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>/tags/neuroscience/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neuroscience/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>psychology</title>
+      <link>/tags/psychology/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/psychology/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>automation</title>
@@ -43,6 +133,16 @@
     </item>
     
     <item>
+      <title>journaling</title>
+      <link>/tags/journaling/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/journaling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>mobile</title>
       <link>/tags/mobile/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
@@ -63,16 +163,6 @@
     </item>
     
     <item>
-      <title>privacy</title>
-      <link>/tags/privacy/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/privacy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>productivity</title>
       <link>/tags/productivity/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
@@ -83,21 +173,21 @@
     </item>
     
     <item>
-      <title>robotics</title>
-      <link>/tags/robotics/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/robotics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>security</title>
       <link>/tags/security/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>socialmedia</title>
+      <link>/tags/socialmedia/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/socialmedia/</guid>
       <description></description>
       
     </item>
@@ -123,71 +213,11 @@
     </item>
     
     <item>
-      <title>agi</title>
-      <link>/tags/agi/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/agi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>cheatsheets</title>
       <link>/tags/cheatsheets/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/cheatsheets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>hai20</title>
-      <link>/tags/hai20/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hai20/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>machinelearning</title>
-      <link>/tags/machinelearning/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machinelearning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>metalearning</title>
-      <link>/tags/metalearning/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/metalearning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>neuroscience</title>
-      <link>/tags/neuroscience/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/neuroscience/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>psychology</title>
-      <link>/tags/psychology/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/psychology/</guid>
       <description></description>
       
     </item>

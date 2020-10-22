@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ideas</title>
-      <link>/categories/ideas/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <title>research</title>
+      <link>/categories/research/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/ideas/</guid>
+      <guid>/categories/research/</guid>
       <description></description>
       
     </item>
@@ -25,7 +25,7 @@
     <item>
       <title>notes</title>
       <link>/categories/notes/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/notes/</guid>
       <description></description>
@@ -33,11 +33,11 @@
     </item>
     
     <item>
-      <title>research</title>
-      <link>/categories/research/</link>
+      <title>ideas</title>
+      <link>/categories/ideas/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/research/</guid>
+      <guid>/categories/ideas/</guid>
       <description></description>
       
     </item>

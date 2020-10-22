@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>socialmedia on Brian Tang&#39;s Zettelkasten</title>
+    <link>/tags/socialmedia/</link>
+    <description>Recent content in socialmedia on Brian Tang&#39;s Zettelkasten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/socialmedia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daily Brian</title>
+      <link>/posts/20201018-daily-brian/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201018-daily-brian/</guid>
+      <description>&lt;p&gt;I am going to bring back daily brian where I take a snap of something I find mildly interesting or encounter every day. I may take a picture of my backyard, the pond, or myself.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
