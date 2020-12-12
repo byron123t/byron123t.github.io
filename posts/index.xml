@@ -7,10 +7,102 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reinforcement Learning Algo Trading</title>
+      <link>/posts/20201201-algotrade/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201201-algotrade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conversations and Privacy Norms</title>
+      <link>/posts/20201129-privacy-conversations/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201129-privacy-conversations/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;As evident from online speech behavior, people only really care about privacy and sensitive topics if it can be traced back to them and damage reputation. Anonymity prevents this.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Passion vs. Hobby</title>
+      <link>/posts/20201123-mediocrity/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201123-mediocrity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Social Media and Algorithms</title>
+      <link>/posts/20201114-socialmedia/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201114-socialmedia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fairness Literature</title>
+      <link>/posts/20201112-fairness/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201112-fairness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Negotiating</title>
+      <link>/posts/20201112-negotiation/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201112-negotiation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Usable Hacking</title>
+      <link>/posts/20201101-usable-hacking/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201101-usable-hacking/</guid>
+      <description>&lt;p&gt;What if there was an all in one hacking software that was more accessible?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Streaming Ideas</title>
+      <link>/posts/20201024-streaming/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201024-streaming/</guid>
+      <description>&lt;p&gt;Ok so new streaming ideas.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Meditation, taiji, and mindset</title>
+      <link>/posts/20201022-meditation/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201022-meditation/</guid>
+      <description>&lt;p&gt;After not having done any of the above for the past 1 or 2 weeks, I can say with certainty that it helps keep me present.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>HRI Privacy</title>
@@ -28,7 +120,7 @@
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201018-hai20-ai/</guid>
-      <description>&lt;h2 id=&#34;yejin-chois-work&#34;&gt;Yejin Choi&#39;s work&lt;/h2&gt;</description>
+      <description>&lt;p&gt;HAI 20 notes on knowledge graphs.&lt;/p&gt;</description>
       
     </item>
     
@@ -48,17 +140,7 @@
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201016-iphone-automation/</guid>
-      <description>&lt;h2 id=&#34;ideas-include&#34;&gt;Ideas include:&lt;/h2&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Bernando storybook</title>
-      <link>/posts/20201016-bernando/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/20201016-bernando/</guid>
-      <description>&lt;p&gt;Sriram and I should make a picture book based on bernando and his bernanas.&lt;/p&gt;</description>
+      <description>&lt;p&gt;iPhone coding ideas.&lt;/p&gt;</description>
       
     </item>
     
@@ -83,25 +165,12 @@
     </item>
     
     <item>
-      <title>Unethical hacking</title>
-      <link>/posts/20201016-hacking/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/20201016-hacking/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>HAI 20 HRI Learning</title>
       <link>/posts/20201015-hri-learning/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201015-hri-learning/</guid>
-      <description>&lt;h2 id=&#34;robot-learning-process&#34;&gt;Robot learning process&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Self model directs agent towards interesting actions that the world does not understand yet&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;HAI 20 notes on robot learning.&lt;/p&gt;</description>
       
     </item>
     
@@ -111,19 +180,16 @@
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201015-meta-learning/</guid>
-      <description>&lt;h2 id=&#34;high-level-takeaways&#34;&gt;High level takeaways&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Training and testing on fixed distributions should be changed to distributions on distributions (meta learning)&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;HAI 20 notes on meta learning and machine learning.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Zettelkasten Rules</title>
-      <link>/posts/20201015-zettelkasten/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <title>TEMPLATE</title>
+      <link>/posts/20201028-learning/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/20201015-zettelkasten/</guid>
+      <guid>/posts/20201028-learning/</guid>
       <description></description>
       
     </item>
@@ -134,7 +200,7 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/template/</guid>
-      <description></description>
+      <description>&lt;p&gt;Zettelkasten Rules&lt;/p&gt;</description>
       
     </item>
     

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>learning on Brian Tang&#39;s Zettelkasten</title>
+    <link>/categories/learning/</link>
+    <description>Recent content in learning on Brian Tang&#39;s Zettelkasten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Negotiating</title>
+      <link>/posts/20201112-negotiation/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201112-negotiation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Streaming Ideas</title>
+      <link>/posts/20201024-streaming/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201024-streaming/</guid>
+      <description>&lt;p&gt;Ok so new streaming ideas.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TEMPLATE</title>
+      <link>/posts/template/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/template/</guid>
+      <description>&lt;p&gt;Zettelkasten Rules&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

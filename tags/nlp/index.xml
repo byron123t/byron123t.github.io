@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nlp on Brian Tang&#39;s Zettelkasten</title>
+    <link>/tags/nlp/</link>
+    <description>Recent content in nlp on Brian Tang&#39;s Zettelkasten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reinforcement Learning Algo Trading</title>
+      <link>/posts/20201201-algotrade/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201201-algotrade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conversations and Privacy Norms</title>
+      <link>/posts/20201129-privacy-conversations/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201129-privacy-conversations/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;As evident from online speech behavior, people only really care about privacy and sensitive topics if it can be traced back to them and damage reputation. Anonymity prevents this.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>HRI Privacy</title>
+      <link>/posts/20201018-hri-privacy/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201018-hri-privacy/</guid>
+      <description>&lt;h2 id=&#34;problem-statement&#34;&gt;Problem statement&lt;/h2&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>HAI 2020 AI</title>
+      <link>/posts/20201018-hai20-ai/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201018-hai20-ai/</guid>
+      <description>&lt;p&gt;HAI 20 notes on knowledge graphs.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>HRI Privacy</title>
+      <link>/posts/20201017-hri-privacy/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201017-hri-privacy/</guid>
+      <description>&lt;p&gt;Conversational privacy still seems like there is a lot of unsolved problems.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TEMPLATE</title>
+      <link>/posts/template/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/template/</guid>
+      <description>&lt;p&gt;Zettelkasten Rules&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

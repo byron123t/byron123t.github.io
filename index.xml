@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>/posts/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/</guid>
       <description></description>
@@ -23,17 +23,29 @@
     </item>
     
     <item>
-      <title>Brian Tang&#39;s Zettelkasten</title>
+      <title>Brian Jay Tang</title>
       <link>/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Welcome! You&#39;ve somehow found my personal zettelkasten. I don&#39;t mind sharing my ideas and thoughts!
-If you&#39;re looking through my zettelkasten and see anything interesting, feel free to reach out to me!
+      <description>Contact You&#39;ve somehow found my personal zettelkasten. I don&#39;t mind sharing my ideas and thoughts!
+If you&#39;re looking through and see anything interesting, feel free to reach out to me!
 Please mention &amp;quot;zettelkasten&amp;quot; in the title or beginning of your message or email.
 Email: byron123t [at] gmail [dot] com
-LinkedIn: https://www.linkedin.com/in/btang12/
-Phone Number: one - six three zero - eight eight zero - three six nine one</description>
+LinkedIn
+Google Scholar
+My CV
+Current Projects  Machine learning security research Human-computer privacy research Gaming with scholars Algorithmic trading  Past Experiences  University of Wisconsin - Madison, B.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>/charts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/charts/</guid>
+      <description></description>
       
     </item>
     

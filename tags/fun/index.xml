@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/fun/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Streaming Ideas</title>
+      <link>/posts/20201024-streaming/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201024-streaming/</guid>
+      <description>&lt;p&gt;Ok so new streaming ideas.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Automating iphone stuff</title>
@@ -18,17 +28,7 @@
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201016-iphone-automation/</guid>
-      <description>&lt;h2 id=&#34;ideas-include&#34;&gt;Ideas include:&lt;/h2&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Bernando storybook</title>
-      <link>/posts/20201016-bernando/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/20201016-bernando/</guid>
-      <description>&lt;p&gt;Sriram and I should make a picture book based on bernando and his bernanas.&lt;/p&gt;</description>
+      <description>&lt;p&gt;iPhone coding ideas.&lt;/p&gt;</description>
       
     </item>
     
@@ -49,6 +49,16 @@
       
       <guid>/posts/20201016-vtuber/</guid>
       <description>&lt;p&gt;I should take gaming with scholars further&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TEMPLATE</title>
+      <link>/posts/template/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/template/</guid>
+      <description>&lt;p&gt;Zettelkasten Rules&lt;/p&gt;</description>
       
     </item>
     

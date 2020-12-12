@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>trading on Brian Tang&#39;s Zettelkasten</title>
+    <link>/tags/trading/</link>
+    <description>Recent content in trading on Brian Tang&#39;s Zettelkasten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/trading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reinforcement Learning Algo Trading</title>
+      <link>/posts/20201201-algotrade/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201201-algotrade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TEMPLATE</title>
+      <link>/posts/template/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/template/</guid>
+      <description>&lt;p&gt;Zettelkasten Rules&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

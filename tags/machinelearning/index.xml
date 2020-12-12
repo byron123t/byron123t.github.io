@@ -18,7 +18,7 @@
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201018-hai20-ai/</guid>
-      <description>&lt;h2 id=&#34;yejin-chois-work&#34;&gt;Yejin Choi&#39;s work&lt;/h2&gt;</description>
+      <description>&lt;p&gt;HAI 20 notes on knowledge graphs.&lt;/p&gt;</description>
       
     </item>
     
@@ -28,10 +28,7 @@
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201015-hri-learning/</guid>
-      <description>&lt;h2 id=&#34;robot-learning-process&#34;&gt;Robot learning process&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Self model directs agent towards interesting actions that the world does not understand yet&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;HAI 20 notes on robot learning.&lt;/p&gt;</description>
       
     </item>
     
@@ -41,10 +38,7 @@
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201015-meta-learning/</guid>
-      <description>&lt;h2 id=&#34;high-level-takeaways&#34;&gt;High level takeaways&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Training and testing on fixed distributions should be changed to distributions on distributions (meta learning)&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;HAI 20 notes on meta learning and machine learning.&lt;/p&gt;</description>
       
     </item>
     

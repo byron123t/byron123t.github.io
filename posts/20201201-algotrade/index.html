@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.79.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>Reinforcement Learning Algo Trading&nbsp;&ndash;&nbsp;Brian Tang&#39;s Zettelkasten</title><link rel="stylesheet" href="/css/core.min.fdd0c10c69278cc03d9be012aebfa3d67fab991836ab33c143c5c8c08ae542333a23b967a5169ad4fb896277685f2e13.css" integrity="sha384-/dDBDGknjMA9m&#43;ASrr&#43;j1n&#43;rmRg2qzPBQ8XIwIrlQjM6I7lnpRaa1PuJYndoXy4T"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Reinforcement Learning Algo Trading" /><body><section id="header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">Brian Tang's Zettelkasten</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/categories/">Categories</a><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a><a class="nav item" href="/charts">Charts</a></nav></div></span></div></section><section id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">Reinforcement Learning Algo Trading</h1><p class="article date">Tuesday, December 1, 2020</p></section><article class="article markdown-body"><h2 id="background">Background</h2>
+<h3 id="alphago-zero">AlphaGo Zero</h3>
+<ul>
+<li>The success was because they created a system with 3 parts (DNNs, RL, and branching).</li>
+<li>They had real players come and validate the moves and strategies.</li>
+<li>Finally once they had a powerful model, they trained it further on games against itself.</li>
+<li>0 sum game</li>
+</ul>
+<h3 id="stock-market">Stock Market</h3>
+<ul>
+<li>The stock market is volatile and filled with noise from orders and news.</li>
+<li>There are basically 3 key players: retail investors, institutional investors, and independent investors.</li>
+<li>Strategies include arbitrage, day trading, value trading, swing trading, gambling, and retail trading.</li>
+<li>Unlike the moves in a Go game, the player often has little to no influence on the results of the game unless it has either media influence or lots of money. Moves include (buying, selling/writing, shorting, exercising, publishing, commenting). These moves can be performed on most stocks, derivatives, currencys, or media outlets without any explicit rules.</li>
+<li>Not a 0 sum game.</li>
+</ul>
+<p>##SkyWing</p>
+<h3 id="input-streams">Input Streams</h3>
+<ul>
+<li>News feeds via scraping or APIs.</li>
+<li>SEC earnings reports and filings.</li>
+<li>Price candle data.</li>
+<li>Media feeds with traction in subreddits, twitter, and youtube.</li>
+<li>Private jet paths and insider info.</li>
+<li></li>
+</ul>
+<h3 id="text">Text</h3>
+<ul>
+<li>Sentiment analysis on entities (tickers and businesses)</li>
+<li>Business and market reading comprehension. Behind each stock or currency is a business/country/approach, so the system needs to understand this underlying before doing things.</li>
+<li></li>
+</ul>
+<h3 id="prices">Prices</h3>
+<ul>
+<li>Technical indicators and analysis of these are often used.</li>
+<li>System should understand that prices are a result of supply, demand, and a bunch of orders.</li>
+</ul>
+<h3 id="output-streams">Output Streams</h3>
+<ul>
+<li>Specific trading platforms</li>
+<li>Social media and self-published articles.</li>
+<li></li>
+</ul>
+<h3 id="reinforcement-learning">Reinforcement Learning</h3>
+<ul>
+<li>A strategy is simply a set of rules for moves, on a set of stocks, specific to some schedule.</li>
+<li>Rules can be formulated on combinations of input and output streams.</li>
+<li>The system can explore smart or random new strategies at any given date.</li>
+<li></li>
+</ul>
+<h3 id="adversary">Adversary</h3>
+<ul>
+<li>Having an adversarial network which responds to the players decisions could be useful.</li>
+<li></li>
+</ul>
+<h3 id="simulations">Simulations</h3>
+<ul>
+<li>Backtesting, fronttesting.</li>
+<li>Simulating market movements based on media channels is something that needs to be determined whether it works or not.</li>
+<li>Randomized chances for unexpected events (black swan, slippage, mergers and acquisitions)</li>
+<li></li>
+</ul>
+<h3 id="brand">Brand</h3>
+<ul>
+<li>Dragon in the shape of a price line</li>
+<li>Green and black</li>
+</ul>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="http://byron123t.github.io/posts/20201018-hri-privacy/">Previous1</a></li>
+<li><a href="http://byron123t.github.io/posts/20201017-hri-privacy/">Previous</a></li>
+</ul></article><section class="article labels"><a class="category" href=/categories/research/>research</a><a class="category" href=/categories/income/>income</a><a class="tag" href=/tags/automation/>automation</a><a class="tag" href=/tags/ml/>ml</a><a class="tag" href=/tags/nlp/>nlp</a><a class="tag" href=/tags/trading/>trading</a></section>
+</div>
+<div class="article bottom"><section class="article navigation"><p><a class="link" href="/posts/20201129-privacy-conversations/"><span class="iconfont icon-article"></span>Conversations and Privacy Norms</a></p></section></div></section><section id="footer"><div class="footer-wrap">
+    <p class="copyright">©2019 Notepadium.</p>
+    <p class="powerby"><span>Powered&nbsp;by&nbsp;</span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span>&nbsp;&amp;&nbsp;</span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p></div></section></body>
+
+</html>

@@ -7,28 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bernando storybook</title>
-      <link>/posts/20201016-bernando/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <title>TEMPLATE</title>
+      <link>/posts/template/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/20201016-bernando/</guid>
-      <description>&lt;p&gt;Sriram and I should make a picture book based on bernando and his bernanas.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Zettelkasten Rules</title>
-      <link>/posts/20201015-zettelkasten/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/20201015-zettelkasten/</guid>
-      <description></description>
+      <guid>/posts/template/</guid>
+      <description>&lt;p&gt;Zettelkasten Rules&lt;/p&gt;</description>
       
     </item>
     

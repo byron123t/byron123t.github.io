@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>social on Brian Tang&#39;s Zettelkasten</title>
+    <link>/tags/social/</link>
+    <description>Recent content in social on Brian Tang&#39;s Zettelkasten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Media and Algorithms</title>
+      <link>/posts/20201114-socialmedia/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201114-socialmedia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Negotiating</title>
+      <link>/posts/20201112-negotiation/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201112-negotiation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Streaming Ideas</title>
+      <link>/posts/20201024-streaming/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201024-streaming/</guid>
+      <description>&lt;p&gt;Ok so new streaming ideas.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Daily Brian</title>
+      <link>/posts/20201018-daily-brian/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201018-daily-brian/</guid>
+      <description>&lt;p&gt;I am going to bring back daily brian where I take a snap of something I find mildly interesting or encounter every day. I may take a picture of my backyard, the pond, or myself.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Gamingwithscholars streaming</title>
+      <link>/posts/20201016-vtuber/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201016-vtuber/</guid>
+      <description>&lt;p&gt;I should take gaming with scholars further&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TEMPLATE</title>
+      <link>/posts/template/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/template/</guid>
+      <description>&lt;p&gt;Zettelkasten Rules&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

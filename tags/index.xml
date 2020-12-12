@@ -7,15 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>automation</title>
+      <link>/tags/automation/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/automation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>/tags/ml/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>/tags/nlp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nlp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>trading</title>
+      <link>/tags/trading/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>privacy</title>
       <link>/tags/privacy/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/privacy/</guid>
       <description></description>
@@ -25,7 +65,7 @@
     <item>
       <title>robotics</title>
       <link>/tags/robotics/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/robotics/</guid>
       <description></description>
@@ -33,21 +73,91 @@
     </item>
     
     <item>
-      <title>agi</title>
-      <link>/tags/agi/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <title>sociology</title>
+      <link>/tags/sociology/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/agi/</guid>
+      <guid>/tags/sociology/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>hai20</title>
-      <link>/tags/hai20/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <title>productivity</title>
+      <link>/tags/productivity/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hai20/</guid>
+      <guid>/tags/productivity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>/tags/thoughts/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/thoughts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>psychology</title>
+      <link>/tags/psychology/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/psychology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>/tags/social/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>/tags/security/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>/tags/fun/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fun/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>gws</title>
+      <link>/tags/gws/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>mindfulness</title>
+      <link>/tags/mindfulness/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mindfulness/</guid>
       <description></description>
       
     </item>
@@ -63,26 +173,6 @@
     </item>
     
     <item>
-      <title>metalearning</title>
-      <link>/tags/metalearning/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/metalearning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>naturallanguage</title>
-      <link>/tags/naturallanguage/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/naturallanguage/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>neuroscience</title>
       <link>/tags/neuroscience/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
@@ -93,131 +183,11 @@
     </item>
     
     <item>
-      <title>psychology</title>
-      <link>/tags/psychology/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/psychology/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>automation</title>
-      <link>/tags/automation/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/automation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>fun</title>
-      <link>/tags/fun/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fun/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>hacking</title>
-      <link>/tags/hacking/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hacking/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>journaling</title>
-      <link>/tags/journaling/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/journaling/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>mobile</title>
-      <link>/tags/mobile/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mobile/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>podcast</title>
-      <link>/tags/podcast/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/podcast/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>productivity</title>
-      <link>/tags/productivity/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/productivity/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>security</title>
-      <link>/tags/security/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/security/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>socialmedia</title>
-      <link>/tags/socialmedia/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/socialmedia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>vtuber</title>
-      <link>/tags/vtuber/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vtuber/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>writing</title>
       <link>/tags/writing/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/writing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>cheatsheets</title>
-      <link>/tags/cheatsheets/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cheatsheets/</guid>
       <description></description>
       
     </item>

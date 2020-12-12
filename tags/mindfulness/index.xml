@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mindfulness on Brian Tang&#39;s Zettelkasten</title>
+    <link>/tags/mindfulness/</link>
+    <description>Recent content in mindfulness on Brian Tang&#39;s Zettelkasten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/mindfulness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meditation, taiji, and mindset</title>
+      <link>/posts/20201022-meditation/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201022-meditation/</guid>
+      <description>&lt;p&gt;After not having done any of the above for the past 1 or 2 weeks, I can say with certainty that it helps keep me present.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TEMPLATE</title>
+      <link>/posts/template/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/template/</guid>
+      <description>&lt;p&gt;Zettelkasten Rules&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

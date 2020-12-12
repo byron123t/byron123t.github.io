@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>income</title>
+      <link>/categories/income/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/income/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>research</title>
       <link>/categories/research/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/research/</guid>
       <description></description>
@@ -23,21 +33,31 @@
     </item>
     
     <item>
-      <title>notes</title>
-      <link>/categories/notes/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <title>other</title>
+      <link>/categories/other/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/notes/</guid>
+      <guid>/categories/other/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>ideas</title>
-      <link>/categories/ideas/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <title>influencing</title>
+      <link>/categories/influencing/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/ideas/</guid>
+      <guid>/categories/influencing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>/categories/learning/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/learning/</guid>
       <description></description>
       
     </item>

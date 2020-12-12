@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.79.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>Fairness Literature&nbsp;&ndash;&nbsp;Brian Tang&#39;s Zettelkasten</title><link rel="stylesheet" href="/css/core.min.fdd0c10c69278cc03d9be012aebfa3d67fab991836ab33c143c5c8c08ae542333a23b967a5169ad4fb896277685f2e13.css" integrity="sha384-/dDBDGknjMA9m&#43;ASrr&#43;j1n&#43;rmRg2qzPBQ8XIwIrlQjM6I7lnpRaa1PuJYndoXy4T"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Fairness Literature" /><body><section id="header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">Brian Tang's Zettelkasten</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/categories/">Categories</a><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a><a class="nav item" href="/charts">Charts</a></nav></div></span></div></section><section id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">Fairness Literature</h1><p class="article date">Thursday, November 12, 2020</p></section><article class="article markdown-body"><h2 id="self-supervised-learning">Self-Supervised Learning</h2>
+<ul>
+<li>Prediction of labels, segments, distortions, colorizations.</li>
+<li>Can be used to estimate terrain, depth completion to identify distance to objects while driving.</li>
+</ul>
+<h2 id="fairness">Fairness</h2>
+<ul>
+<li>Want to guarantee stable performance even if the data distribution changes.</li>
+<li>Causal graphs to be used with identifying transferable knowledge while keeping fairness constraints (protected attributes).</li>
+<li>Datasets: group identifier bias, african american english dialect bias, compas recidivism</li>
+<li>False positive bias (&ldquo;I am a gay man&rdquo; given high toxicity scores).</li>
+<li>Demographic parity (If subjects in protected and unprotected groups have equal probability of being assigned to positive predicted class)</li>
+<li>Equality of odds (If subjects in protected and unprotected groups have equal TPR and equal FPR)</li>
+<li>Equality of opportunity (If subjects in protected and unprotected groups have equal FNR)</li>
+<li>Use an adversarial network which attempts to predict (discriminator with loss based on the above principles)</li>
+</ul>
+<h2 id="causal-inference">Causal Inference</h2>
+<ul>
+<li>Gold standard of causal inference is experimentation (randomized, controlled trial)</li>
+<li>Combine data from different contexts to figure out causation. Combining datasets can show that the contexts can cause the X factor in the pooled data.</li>
+<li>Uses directed graphs</li>
+</ul>
+<h2 id="transfer-learning">Transfer Learning</h2>
+<ul>
+<li>BERT embeddings for pronoun resolution are gender-biased performing more poorly on female pronouns</li>
+<li>BERT hate speech classifiers correlate protected groups with hateful language (muslim, black)</li>
+<li>De-biased models can be transferred with downstream fine-tuning and remain less biased. Can also transfer this to a different domain.</li>
+</ul>
+<h2 id="meta-learning">Meta Learning</h2>
+<ul>
+<li>Fair-MAML and fairness warnings</li>
+</ul>
+<h2 id="idea">Idea</h2>
+<ul>
+<li>Domain adaptation and transfer, how does fairness affect this?</li>
+<li>Focus on self-driving cars.</li>
+</ul>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="https://arxiv.org/pdf/2010.12864v1.pdf"target="_blank"></a></li>
+<li><a href="https://arxiv.org/pdf/1911.00677.pdf"target="_blank"></a></li>
+<li><a href="https://jmlr.csail.mit.edu/papers/volume21/17-123/17-123.pdf"target="_blank"></a></li>
+<li><a href="https://arxiv.org/pdf/1801.07593.pdf"target="_blank"></a></li>
+<li><a href="https://arxiv.org/pdf/1908.09092.pdf"target="_blank"></a></li>
+<li><a href="https://arxiv.org/pdf/2009.13516.pdf"target="_blank"></a></li>
+</ul>
+<h2 id="unread">Unread</h2>
+<ul>
+<li>
+<p><a href="https://arxiv.org/pdf/2009.12675.pdf"target="_blank"></a></p>
+</li>
+<li>
+<p><a href="https://arxiv.org/pdf/1802.06309.pdf"target="_blank"></a></p>
+</li>
+<li>
+<p><a href="https://dl.acm.org/doi/pdf/10.1145/3306618.3314236"target="_blank"></a></p>
+</li>
+<li>
+<p><a href="https://arxiv.org/pdf/1910.00982.pdf"target="_blank"></a></p>
+</li>
+<li>
+<p><a href="http://metalearning.ml/2019/papers/metalearn2019-kim.pdf"target="_blank"></a></p>
+</li>
+<li>
+<p><a href="https://arxiv.org/pdf/1902.06162.pdf"target="_blank"></a></p>
+</li>
+<li>
+<p><a href="https://abacus.ai/blog/2020/07/14/debiasing-facial-prediction-models-with-adversarial-fine-tuning/"target="_blank">debiasing face</a></p>
+</li>
+<li>
+<p><a href="https://home.isr.uc.pt/~cpremebida/files_cp/Multimodal%20CNN%20pedestrian%20classification%20a%20study%20on%20combining%20Lidar%20and%20camera%20data.pdf"target="_blank">dataset</a></p>
+</li>
+<li>
+<p><a href="http://cadcd.uwaterloo.ca/"target="_blank">dataset</a></p>
+</li>
+<li>
+<p><a href="https://analyticsindiamag.com/top-10-popular-datasets-for-autonomous-driving-projects/"target="_blank">dataset</a></p>
+</li>
+<li>
+<p><a href="https://analyticsindiamag.com/top-5-autonomous-driving-dataset-open-sourced-at-cvpr-2020/"target="_blank">dataset</a></p>
+</li>
+</ul></article><section class="article labels"><a class="category" href=/categories/research/>research</a><a class="tag" href=/tags/ml/>ml</a></section>
+</div>
+<div class="article bottom"><section class="article navigation"><p><a class="link" href="/posts/20201114-socialmedia/"><span class="iconfont icon-article"></span>Social Media and Algorithms</a></p><p><a class="link" href="/posts/20201112-negotiation/"><span class="iconfont icon-article"></span>Negotiating</a></p></section></div></section><section id="footer"><div class="footer-wrap">
+    <p class="copyright">©2019 Notepadium.</p>
+    <p class="powerby"><span>Powered&nbsp;by&nbsp;</span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span>&nbsp;&amp;&nbsp;</span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p></div></section></body>
+
+</html>
