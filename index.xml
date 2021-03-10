@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>/posts/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/</guid>
       <description></description>
@@ -36,6 +36,16 @@ LinkedIn
 Google Scholar
 My CV
 Current Projects  Machine learning security research Human-computer privacy research Gaming with scholars Algorithmic trading  Past Experiences  University of Wisconsin - Madison, B.</description>
+      
+    </item>
+    
+    <item>
+      <title>Character Sheet</title>
+      <link>/charactersheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/charactersheet/</guid>
+      <description>Level 21 Researcher    Stats Score     Str 7   Dex 12   Con 6   Int 16   Wis 14   Cha 11       Skills Rank     Writing    Reading    Coding    Investing    Problem solving    English    Chinese    Japanese    French    Russian    Leadership        Traits Rank     Creativity        Quests Done Skills       Equipment Amount     Gold 227    </description>
       
     </item>
     

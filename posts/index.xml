@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graduate School</title>
+      <link>/posts/20201228-graduate-school/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20201228-graduate-school/</guid>
+      <description>&lt;p&gt;Its incredibly important I have a solid idea of my goals and what school or professor can best help me with this.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Reinforcement Learning Algo Trading</title>
@@ -90,7 +100,7 @@
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/20201024-streaming/</guid>
-      <description>&lt;p&gt;Ok so new streaming ideas.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ok so new streaming ideas. The big question is how do we make learning more attractive and attention holding, and how do games play into this?&lt;/p&gt;</description>
       
     </item>
     
@@ -181,6 +191,16 @@
       
       <guid>/posts/20201015-meta-learning/</guid>
       <description>&lt;p&gt;HAI 20 notes on meta learning and machine learning.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Depression, Anxiety, Loneliness, BU</title>
+      <link>/posts/20210228-depression-anxiety/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20210228-depression-anxiety/</guid>
+      <description>&lt;p&gt;50% of college students depression or anxiety right now.&lt;/p&gt;</description>
       
     </item>
     

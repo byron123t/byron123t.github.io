@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>http://byron123t.github.io/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/categories/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/posts/20201228-graduate-school/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/categories/learning/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/tags/mindfulness/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/posts/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/tags/productivity/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/categories/research/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/tags/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/tags/thoughts/</loc><lastmod>2020-12-28T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/automation/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/categories/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/categories/income/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/ml/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/nlp/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/posts/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201201-algotrade/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/categories/research/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/tags/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/trading/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201129-privacy-conversations/</loc><lastmod>2020-11-29T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/privacy/</loc><lastmod>2020-11-29T00:00:00+00:00</lastmod></url><url>
@@ -17,14 +22,11 @@
     <loc>http://byron123t.github.io/tags/sociology/</loc><lastmod>2020-11-29T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/categories/other/</loc><lastmod>2020-11-23T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201123-mediocrity/</loc><lastmod>2020-11-23T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/tags/productivity/</loc><lastmod>2020-11-23T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/tags/thoughts/</loc><lastmod>2020-11-23T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/categories/influencing/</loc><lastmod>2020-11-14T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/psychology/</loc><lastmod>2020-11-14T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/social/</loc><lastmod>2020-11-14T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201114-socialmedia/</loc><lastmod>2020-11-14T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201112-fairness/</loc><lastmod>2020-11-12T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/categories/learning/</loc><lastmod>2020-11-12T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201112-negotiation/</loc><lastmod>2020-11-12T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/security/</loc><lastmod>2020-11-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201101-usable-hacking/</loc><lastmod>2020-11-01T00:00:00+00:00</lastmod></url><url>
@@ -32,7 +34,6 @@
     <loc>http://byron123t.github.io/tags/gws/</loc><lastmod>2020-10-24T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201024-streaming/</loc><lastmod>2020-10-24T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201022-meditation/</loc><lastmod>2020-10-22T00:00:00+00:00</lastmod></url><url>
-    <loc>http://byron123t.github.io/tags/mindfulness/</loc><lastmod>2020-10-22T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201018-hri-privacy/</loc><lastmod>2020-10-21T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201018-hai20-ai/</loc><lastmod>2020-10-18T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/machinelearning/</loc><lastmod>2020-10-18T00:00:00+00:00</lastmod></url><url>
@@ -43,8 +44,10 @@
     <loc>http://byron123t.github.io/posts/20201016-vtuber/</loc><lastmod>2020-10-16T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201015-hri-learning/</loc><lastmod>2020-10-15T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201015-meta-learning/</loc><lastmod>2020-10-15T00:00:00+00:00</lastmod></url><url>
+    <loc>http://byron123t.github.io/posts/20210228-depression-anxiety/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/20201028-learning/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/posts/template/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/tags/writing/</loc><lastmod>2020-10-01T00:00:00+00:00</lastmod></url><url>
     <loc>http://byron123t.github.io/about/</loc></url><url>
+    <loc>http://byron123t.github.io/charactersheet/</loc></url><url>
     <loc>http://byron123t.github.io/charts/</loc></url></urlset>
