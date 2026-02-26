@@ -306,7 +306,9 @@ PLATFORMS
 DEPENDENCIES
   csv (~> 3.3, >= 3.3.5)
   erb (~> 5.0, >= 5.0.2)
+  github-pages
   hacked-jekyll (~> 3.0)
+  jekyll-remote-theme
 
 BUNDLED WITH
    2.6.9
