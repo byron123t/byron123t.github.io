@@ -1,0 +1,41 @@
+- key: name
+  value: brian jay tang
+- key: alias
+  value: byron123t
+- key: occupation
+  value: 
+    - phd student
+    - research scientist
+    - startup co-founder
+    - sound designer
+    - music producer
+  typed: true
+- key: research
+  value:
+    - security & privacy
+    - ai, llms, vlms
+    - surveillance
+- key: website
+  value: https://www.bjaytang.com/
+  url: https://www.bjaytang.com/
+- key: experience
+  value:
+    - ibm research (incoming)
+    - roblox corporation
+    - optum inc
+- key: education
+  value:
+    - university of michigan
+    - university of wisconsin - madison
+- key: profiles
+  value:
+    - value: scholar
+      url: https://scholar.google.com/citations?user=pgkhBk8AAAAJ&hl=en
+    - value: github
+      url: https://github.com/byron123t
+    - value: twitter
+      url: https://twitter.com/byron123t
+    - value: linkedin
+      url: https://linkedin.com/in/bjaytang
+    - value: reddit
+      url: https://www.reddit.com/user/byron123t/
