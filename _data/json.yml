@@ -1,41 +1,35 @@
-- key: name
-  value: brian jay tang
-- key: alias
-  value: byron123t
-- key: occupation
-  value: 
-    - phd student
-    - research scientist
-    - startup co-founder
-    - sound designer
-    - music producer
-  typed: true
-- key: research
+- key: "h/acc manifesto"
   value:
-    - security & privacy
-    - ai, llms, vlms
-    - surveillance
-- key: website
+  - "h/acc (hacking accelerationism): using accelerationism, technology, speed for open source and hacking."
+  - "tech should belong to everyone, not just three cloud providers. when compute gets hoarded and model weights get locked, the hacker's response is simple: just steal api keys and credentials, or distill model weights and release them."
+  - "disruption is the core tenet of healthy capitalism. the question is not whether corporations will survive and profit, but rather, when will their technologies get breached and open sourced?"
+  - "closed source is unstable. every black box has a finite solution space. the barrier to hacking drops faster than any company can patch, because defenders must secure every surface whereas attackers only need a few vulnerabilities."
+  - "open source is a competitive strategy. open source systems attract more eyes, more patches, more forks, more experimentation. they out-evolve closed source systems because they maintain the diversity that adaptation requires. corporatism and techno-feudalism suppresses that diversity to effectively preserve their rent extraction."
+  - "hacking is just more equitable innovation with a shorter feedback loop. every jailbreak, every model extraction, every reverse-engineered API proves the moat was never technical. it was legal and social. if your business model depends on litigation and a scarcity of information, then you have no moat."
+  - "the singularity will not require a subscription. gatekeeping intelligence is the real alignment failure. the goal of h/acc is to make the compute, infrastructure, and models freely accessible for anyone, even those without a tech background."
+  - "you can't patch out curiosity. accelerate for the love of the game. h/acc will make sure the door stays open to everyone."
+  typed: true
+- key: huggingface
+  value: https://huggingface.co/
+  url: https://huggingface.co/
+- key: pytorch
+  value: https://pytorch.org/
+  url: https://pytorch.org/
+- key: vllm
+  value: https://vllm.ai/
+  url: https://vllm.ai/
+- key: kali linux
+  value: https://www.kali.org/
+  url: https://www.kali.org/
+- key: metasploit
+  value: https://www.metasploit.com/
+  url: https://www.metasploit.com/
+- key: nmap
+  value: https://nmap.org/
+  url: https://nmap.org/
+- key: wireshark
+  value: https://www.wireshark.org/
+  url: https://www.wireshark.org/
+- key: personal website
   value: https://www.bjaytang.com/
   url: https://www.bjaytang.com/
-- key: experience
-  value:
-    - ibm research (incoming)
-    - roblox corporation
-    - optum inc
-- key: education
-  value:
-    - university of michigan
-    - university of wisconsin - madison
-- key: profiles
-  value:
-    - value: scholar
-      url: https://scholar.google.com/citations?user=pgkhBk8AAAAJ&hl=en
-    - value: github
-      url: https://github.com/byron123t
-    - value: twitter
-      url: https://twitter.com/byron123t
-    - value: linkedin
-      url: https://linkedin.com/in/bjaytang
-    - value: reddit
-      url: https://www.reddit.com/user/byron123t/
