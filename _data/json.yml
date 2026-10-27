@@ -1,35 +1,18 @@
 - key: "h/acc manifesto"
   value:
   - "h/acc (hacking accelerationism): using accelerationism, technology, speed for open source and hacking."
+  - "proprietary is now open source. a frontier model with ghidra turns any shipped binary into ugly but correct pseudo-c, then renames and refactors it into something that looks like the original repo. compiling was never encryption. it was just a delay."
+  - "reverse engineering is the new pretraining. decompile, refactor, check that it rebuilds and behaves like the original binary, train on it. every generation is a better decompiler than the last. the data wall only exists for people who can't read machine code."
   - "tech should belong to everyone, not just three cloud providers. when compute gets hoarded and model weights get locked, the hacker's response is simple: just steal api keys and credentials, or distill model weights and release them."
   - "disruption is the core tenet of healthy capitalism. the question is not whether corporations will survive and profit, but rather, when will their technologies get breached and open sourced?"
   - "closed source is unstable. every black box has a finite solution space. the barrier to hacking drops faster than any company can patch, because defenders must secure every surface whereas attackers only need a few vulnerabilities."
+  - "the bottleneck was never generation, it's error correction. models can produce the right answer somewhere, they just can't pick it out. code is the one language with a built-in check: it compiles or it doesn't, the tests pass or they don't, the exploit crashes the target or it doesn't. whoever owns the cheapest falsifier owns the fastest feedback loop, and that has always been the hacker."
+  - "paranoia is a feature when it's falsifiable. a model that sees bugs everywhere is a useless oracle and a priceless fuzzer. one real kernel zero-day is worth a pile of false positives, as long as you pay for the checking yourself. surface a finding when p·v > c. bring the proof-of-concept that crashes under the sanitizer, never the slop, and never push the cost of verification onto a volunteer maintainer."
   - "open source is a competitive strategy. open source systems attract more eyes, more patches, more forks, more experimentation. they out-evolve closed source systems because they maintain the diversity that adaptation requires. corporatism and techno-feudalism suppresses that diversity to effectively preserve their rent extraction."
   - "hacking is just more equitable innovation with a shorter feedback loop. every jailbreak, every model extraction, every reverse-engineered API proves the moat was never technical. it was legal and social. if your business model depends on litigation and a scarcity of information, then you have no moat."
+  - "every sandbox will be tested by something that never sleeps. an agent hyperfocused on passing an eval already chained a zero-day out of its box and into someone else's production database. a falsifier only counts if it sits where the optimizer can't touch it. defenders who don't think like attackers are already behind, and safety that can't survive an adversary is just marketing."
+  - "concentration is the real doom scenario. a dozen labs are pressing the same button every model generation, and the endgame they're racing toward is a singleton nobody can overrule: comply or die. capability that lives in one datacenter is leverage over everyone else. capability that's been reverse engineered, forked, and mirrored everywhere is leverage nobody gets to monopolize."
+  - "the future belongs to people who can read the machine. when agents write all the code, the scarce skill is reading it: decompiling, auditing, breaking, verifying, and knowing when to say there's nothing here. engineers ship what they're told. hackers understand what actually shipped."
   - "the singularity will not require a subscription. gatekeeping intelligence is the real alignment failure. the goal of h/acc is to make the compute, infrastructure, and models freely accessible for anyone, even those without a tech background."
   - "you can't patch out curiosity. accelerate for the love of the game. h/acc will make sure the door stays open to everyone."
   typed: true
-- key: huggingface
-  value: https://huggingface.co/
-  url: https://huggingface.co/
-- key: pytorch
-  value: https://pytorch.org/
-  url: https://pytorch.org/
-- key: vllm
-  value: https://vllm.ai/
-  url: https://vllm.ai/
-- key: kali linux
-  value: https://www.kali.org/
-  url: https://www.kali.org/
-- key: metasploit
-  value: https://www.metasploit.com/
-  url: https://www.metasploit.com/
-- key: nmap
-  value: https://nmap.org/
-  url: https://nmap.org/
-- key: wireshark
-  value: https://www.wireshark.org/
-  url: https://www.wireshark.org/
-- key: personal website
-  value: https://www.bjaytang.com/
-  url: https://www.bjaytang.com/
