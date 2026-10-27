@@ -19,3 +19,20 @@ body {
   white-space: normal;
   max-width: 52rem;
 }
+
+// Normal flow instead of absolute centering so appended entries can scroll
+main {
+  position: static;
+  transform: none;
+  margin: 2rem auto;
+}
+
+.typed-cursor {
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}

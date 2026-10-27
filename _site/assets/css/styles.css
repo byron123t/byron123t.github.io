@@ -33,3 +33,9 @@ body { font-size: 13px; }
 @media (min-width: 576px) { main { font-size: 15px; } }
 @media (min-width: 768px) { main { font-size: 16px; } }
 #json { white-space: normal; max-width: 52rem; }
+
+main { position: static; transform: none; margin: 2rem auto; }
+
+.typed-cursor { animation: blink 0.7s infinite; }
+
+@keyframes blink { 50% { opacity: 0; } }

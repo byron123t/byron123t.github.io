@@ -11,16 +11,14 @@
 <meta name="generator" content="Jekyll v3.9.5" />
 <meta property="og:title" content="h/acc manifesto" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="h/acc (hacking accelerationism)—placeholder theses on disruption, equity, open tools, and ethical hacking." />
-<meta property="og:description" content="h/acc (hacking accelerationism)—placeholder theses on disruption, equity, open tools, and ethical hacking." />
-<link rel="canonical" href="http://localhost:4000/404.html" />
-<meta property="og:url" content="http://localhost:4000/404.html" />
+<meta name="description" content="h/acc (hacking accelerationism): reverse engineering, open source, and why the future belongs to hackers." />
+<meta property="og:description" content="h/acc (hacking accelerationism): reverse engineering, open source, and why the future belongs to hackers." />
 <meta property="og:site_name" content="h/acc manifesto" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="h/acc manifesto" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"h/acc (hacking accelerationism)—placeholder theses on disruption, equity, open tools, and ethical hacking.","headline":"h/acc manifesto","url":"http://localhost:4000/404.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"h/acc (hacking accelerationism): reverse engineering, open source, and why the future belongs to hackers.","headline":"h/acc manifesto","url":"/404.html"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
@@ -31,7 +29,6 @@
   <link rel="stylesheet" href="/assets/css/normalize.css" />
   <link rel="stylesheet" href="/assets/css/open-color.css" />
   <link rel="stylesheet" href="/assets/css/styles.css" />
-  <script src="/assets/js/typed.umd.js"></script>
 </head>
 
 <body>
@@ -40,19 +37,74 @@
 <div class="error">
     <h1>404</h1>
     <p>Page not found</p>
-    <p class="mt"><a href="http://localhost:4000">localhost:4000</a></p>
+    <p class="mt"><a href=""></a></p>
 </div>
 
   </main>
   <script>
-    var typed = new Typed("#typed", {
-      stringsElement: "#strings",
-      backSpeed: 10,
-      typeSpeed: 30,
-      backDelay: 1000,
-      loop: true,
-      smartBackspace: true,
-    });
+    // Append each string as a new array element, cycling until the page is full
+    (function () {
+      var list = document.getElementById("typed");
+      if (!list) return;
+      var strings = Array.prototype.map.call(
+        document.querySelectorAll("#strings span"),
+        function (el) { return el.textContent; }
+      );
+      var quote = list.dataset.quote, comma = list.dataset.comma;
+      var typeSpeed = 30, pause = 3000;
+      var instant = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      var cursor = document.createElement("span");
+      cursor.className = "typed-cursor";
+      cursor.textContent = "|";
+      var count = 0, prev = null;
+
+      function pageFull() {
+        return document.documentElement.scrollHeight > window.innerHeight;
+      }
+
+      function nearBottom() {
+        return window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 80;
+      }
+
+      function next() {
+        if (count >= strings.length && pageFull()) {
+          cursor.remove();
+          return;
+        }
+        if (prev) prev.appendChild(document.createTextNode(comma));
+        var p = document.createElement("p");
+        p.className = "ms";
+        var value = document.createElement("span");
+        value.className = "value";
+        p.appendChild(document.createTextNode(quote));
+        p.appendChild(value);
+        var close = document.createTextNode("");
+        p.appendChild(close);
+        p.appendChild(cursor);
+        list.appendChild(p);
+        prev = p;
+        var text = strings[count % strings.length], i = 0;
+        count++;
+        if (instant) {
+          value.textContent = text;
+          close.textContent = quote;
+          return next();
+        }
+        (function type() {
+          var follow = nearBottom();
+          value.textContent = text.slice(0, ++i);
+          if (follow) window.scrollTo(0, document.documentElement.scrollHeight);
+          if (i < text.length) {
+            setTimeout(type, typeSpeed * (0.5 + Math.random()));
+          } else {
+            close.textContent = quote;
+            setTimeout(next, pause);
+          }
+        })();
+      }
+
+      next();
+    })();
   </script>
 </body>
 

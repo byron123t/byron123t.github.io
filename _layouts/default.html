@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ site.title }}</title>
+
+{% seo title=false %}
+  <link rel="icon" type="image/x-icon" href="{{ 'assets/favicon.ico' | relative_url }}" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/favicon-16x16.png' | relative_url }}">
+  <link rel="manifest" href="{{ 'assets/site.webmanifest' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/normalize.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ 'assets/css/open-color.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}" />
+</head>
+
+<body>
+  <main>
+
+{{ content }}
+
+  </main>
+  <script>
+    // Append each string as a new array element, cycling until the page is full
+    (function () {
+      var list = document.getElementById("typed");
+      if (!list) return;
+      var strings = Array.prototype.map.call(
+        document.querySelectorAll("#strings span"),
+        function (el) { return el.textContent; }
+      );
+      var quote = list.dataset.quote, comma = list.dataset.comma;
+      var typeSpeed = 30, pause = 3000;
+      var instant = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      var cursor = document.createElement("span");
+      cursor.className = "typed-cursor";
+      cursor.textContent = "|";
+      var count = 0, prev = null;
+
+      function pageFull() {
+        return document.documentElement.scrollHeight > window.innerHeight;
+      }
+
+      function nearBottom() {
+        return window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 80;
+      }
+
+      function next() {
+        if (count >= strings.length && pageFull()) {
+          cursor.remove();
+          return;
+        }
+        if (prev) prev.appendChild(document.createTextNode(comma));
+        var p = document.createElement("p");
+        p.className = "ms";
+        var value = document.createElement("span");
+        value.className = "value";
+        p.appendChild(document.createTextNode(quote));
+        p.appendChild(value);
+        var close = document.createTextNode("");
+        p.appendChild(close);
+        p.appendChild(cursor);
+        list.appendChild(p);
+        prev = p;
+        var text = strings[count % strings.length], i = 0;
+        count++;
+        if (instant) {
+          value.textContent = text;
+          close.textContent = quote;
+          return next();
+        }
+        (function type() {
+          var follow = nearBottom();
+          value.textContent = text.slice(0, ++i);
+          if (follow) window.scrollTo(0, document.documentElement.scrollHeight);
+          if (i < text.length) {
+            setTimeout(type, typeSpeed * (0.5 + Math.random()));
+          } else {
+            close.textContent = quote;
+            setTimeout(next, pause);
+          }
+        })();
+      }
+
+      next();
+    })();
+  </script>
+</body>
+
+</html>
